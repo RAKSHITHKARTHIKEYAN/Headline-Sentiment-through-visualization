@@ -22,6 +22,10 @@ This project investigates:
 - **README.md**: Project instructions and setup.
 
 ---
+## How to run
+- run the visualisations.R file in R Studio
+  
+---
 
 ## Prerequisites
 - **R version**: 4.0 or higher
