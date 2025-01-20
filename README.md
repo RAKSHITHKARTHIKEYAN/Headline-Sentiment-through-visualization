@@ -18,7 +18,7 @@ This project investigates:
 
 ## Folder Structure
 - **MN-DS-news-classification.csv**: Contains the dataset - download from link https://paperswithcode.com/dataset/mn-ds.
-- **analysis.R**: All R scripts for analysis and modeling:
+- **visualisations.R**: All R scripts for visualisations:
 - **README.md**: Project instructions and setup.
 
 ---
